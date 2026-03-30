@@ -22,4 +22,4 @@ elif op == '/':
         print('Error: Cannot divide by zero.')
 
 else:
-    print('Invalid Operator.')
+    print('Invalid Operation.')
