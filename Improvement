@@ -1,0 +1,10 @@
+# Improving Code Structure
+## My First Code
+My first code didn't have division by zero, that would be a bug when I ran the program to divide a number by zero, so I learnt I had to add an extra elif for code to handle this error, which was adding a simple line, with the following setup:
+- if num2 != 0
+     result = num1 / num2
+     print('Result: ', result)
+else:
+     print('Error: Cannot divide by zero.')
+
+In this code, I understood that I had to add the number 0 to my code, and make it possible to handle the error. which I made extra if statement in the end, to show the code that it should show an error when the second number is 0, otherwise the program can work properly.
