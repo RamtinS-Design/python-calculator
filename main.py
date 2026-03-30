@@ -15,7 +15,11 @@ elif op == '*':
     result = num1 * num2
     print('Result: ', result)
 elif op == '/':
-    result = num1 / num2
-    print('Result: ', result)
+    if num2 != 0:
+        result = num1 / num2
+        print('Result: ', result)
+    else:
+        print('Error: Cannot divide by zero.')
+
 else:
     print('Invalid Operator.')
