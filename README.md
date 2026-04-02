@@ -24,3 +24,6 @@ A simple Python calculator that performs basic arithmetic operations.
 - Add a loop so the calculator can run multiple times
 - Add better input validation
 - Build a GUI version later
+
+## Author
+Made by (RamtinS-Design)
