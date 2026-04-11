@@ -12,7 +12,7 @@ A simple Python calculator that performs basic arithmetic operations.
 ## How to Run
 1. Open the project in Python
 2. Run:
-   python main.py
+   python calculator.py
 
 ## What I Learned 
 - How to use input and output
